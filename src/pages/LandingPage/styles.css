@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.landingPage{
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(37, 45, 78);
+    
+}
+.landingPage>h1{
+    font-size: 44px;
+    text-shadow: 3px 3px 5px 6px #111;
+}
+h1::first-letter{
+    font-size: 200%;
+    color: #ffffff;
+    font-family: cursive;
+}
+.landingPage__title{
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.landingPage__content{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card{
+    margin: 10px;
+    height: 250px;
+}
+.card:hover{
+    box-shadow: 3px 3px 5px 6px #111;
+}
+.imageclass{
+    text-align: center;
+    height: 150px;
+    width: 250px;
+}

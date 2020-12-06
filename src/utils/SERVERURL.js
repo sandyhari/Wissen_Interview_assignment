@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://wissenassignment.herokuapp.com"; //backend logic hosted address

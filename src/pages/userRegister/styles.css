@@ -1,0 +1,12 @@
+.mainpage{
+    align-content: center;
+}
+.user__header{
+    font-family: cursive;
+    font-size: 36px;
+    color: #16265a;
+}
+.errorHandlers{
+    color: #ce0d0d;
+    font-weight: bold;
+}
